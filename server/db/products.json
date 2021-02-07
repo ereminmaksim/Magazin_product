@@ -1,0 +1,45 @@
+[
+  {
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 47600,
+    "imgCatalog": "img/123.jpg"
+  },
+  {
+    "id_product": 256,
+    "product_name": "Наушники",
+    "price": 2700,
+    "imgCatalog": "img/256.jpg"
+  },
+  {
+    "id_product": 356,
+    "product_name": "Телефон",
+    "price": 12000,
+    "imgCatalog": "img/356.jpg"
+  },
+  {
+    "id_product": 476,
+    "product_name": "Монитор",
+    "price": 18000,
+    "imgCatalog": "img/476.jpg"
+    
+  },
+  {
+    "id_product": 459,
+    "product_name": "Геймпад",
+    "price": 3600,
+    "imgCatalog": "img/459.jpg"
+  },
+  {
+    "id_product": 856,
+    "product_name": "Мышь",
+    "price": 7000,
+    "imgCatalog": "img/856.jpg"
+  },
+  {
+    "id_product": 416,
+    "product_name": "Видеокарта",
+    "price": 46900,
+    "imgCatalog": "img/416.jpg"
+  }
+]
